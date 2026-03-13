@@ -1,3 +1,18 @@
 body {
     background-image: url("images/background.jpg");
+    text-align: center;
+    background-position-x: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p.white-text-shadow {
+    text-shadow: rgb(255, 255, 255) 1px -1px,
+    rgb(255, 255, 255) 1px 1px,
+    rgb(255, 255, 255) -1px -1px,
+    rgb(255, 255, 255) -1px 1px;
+}
+h2.white-text-shadow {
+    text-shadow: rgb(255, 255, 255) 1px -1px,
+    rgb(255, 255, 255) 1px 1px,
+    rgb(255, 255, 255) -1px -1px,
+    rgb(255, 255, 255) -1px 1px;
 }
